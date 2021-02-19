@@ -1,4 +1,4 @@
-# big file1
+# big file1 - New changes are added
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non fermentum ex. Fusce eget purus congue, ornare enim quis, suscipit sapien. In hac habitasse platea dictumst. Nunc egestas ipsum ut sodales sodales. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam at feugiat arcu. Aliquam hendrerit cursus accumsan. Fusce venenatis finibus ipsum, a cursus lorem fermentum eget. Pellentesque in metus metus. Quisque laoreet, dui quis efficitur faucibus, enim nulla sagittis arcu, in varius ex elit aliquam velit. Aliquam erat volutpat. Nam convallis laoreet nisl, a commodo justo sagittis commodo. Nam finibus dolor in nisi ornare pellentesque.
 
@@ -151,6 +151,8 @@ Duis sollicitudin ligula id mi malesuada lacinia. Aenean lobortis magna et venen
 Nulla non convallis magna. Vestibulum felis nibh, sagittis ac vehicula laoreet, mollis et lorem. Vestibulum lectus mi, luctus non accumsan non, porta non metus. Etiam a urna nulla. Fusce eget arcu in nisi fringilla tempus. Pellentesque faucibus auctor diam, egestas posuere est. Duis dapibus in arcu sit amet vulputate. Nam id purus sollicitudin velit facilisis porta. Suspendisse vulputate sit amet mi in vulputate. Vivamus fringilla neque sed porta egestas. Pellentesque volutpat viverra porttitor. Integer malesuada gravida lectus, tempus egestas enim varius id.
 
 Vestibulum mollis ullamcorper semper. Praesent libero erat, aliquam vitae est eget, fringilla blandit augue. Fusce sollicitudin felis sed tortor mattis maximus. In hac habitasse platea dictumst. Mauris ut odio quis turpis rhoncus eleifend. Nullam vitae nisl sagittis, luctus mauris id, consequat tellus. Curabitur sed quam at metus commodo malesuada vel ut metus.
+
+#This is to test atomic commits
 
 Ut id enim ligula. Quisque nisl lorem, feugiat auctor elit id, efficitur pellentesque augue. Nulla aliquet orci leo, sit amet tempor eros elementum ac. Quisque eu maximus velit. Aliquam id eros at diam lobortis dapibus vel in lectus. Duis at accumsan felis. Donec mattis metus ultricies nisi rutrum aliquam. Pellentesque vitae urna ornare, vulputate nunc vel, euismod tellus. Morbi convallis fermentum sagittis. Praesent sodales nibh eu nibh maximus malesuada. Sed in lorem non ante posuere aliquam sed a ante. Phasellus non iaculis urna.
 
